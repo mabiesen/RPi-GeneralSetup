@@ -1,6 +1,5 @@
     1  sudo apt-get update
     2  sudo apt-get upgrade
-    3  --fix-missing
     4  sudo apt-get install python-dev
     5  sudo apt-get install libjpeg-dev
     6  sudo apt-get install libfreetype6-dev
