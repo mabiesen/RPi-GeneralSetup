@@ -1,0 +1,34 @@
+    1  sudo apt-get update
+    2  sudo apt-get upgrade
+    3  --fix-missing
+    4  sudo apt-get install python-dev
+    5  sudo apt-get install libjpeg-dev
+    6  sudo apt-get install libfreetype6-dev
+    7  sudo apt-get install python-setuptools
+    8  sudo apt-get install python-pip
+    9  sudo easy_install -U distribute
+   10  sudo pip install RPi.GPIO
+   11  sudo pip install pySerial
+   12  sudo pip install nose
+   13  sudo pip install cmd2
+   14  sudo apt-get install python-matplotlib
+   15  sudo apt-get install python-mpltoolkits.basemap
+   16  sudo apt-get install python-numpy
+   17  sudo apt-get install python-scipy
+   18  sudo apt-get install python-pandas
+   19  sudo apt-get install python-qt4
+   20  sudo apt-get install git
+   21  sudo apt-get install sendmail
+   22  sudo apt-get install sendemail
+   23  sudo apt-get purge remove sendmail
+   24  sudo apt-get --purge remove {sendmail}
+   25  sudo apt-get --purge remove sendmail
+   26  sudo apt-get install sshfs
+   27  sudo apt-get install alsa-utils
+   28  sudo apt-get install mpg321
+   29  sudo apt-get install lame
+   30  sudo apt-get install microcom
+   31  sudo apt-get install arduino
+   32  sudo apt-get x11vnc
+   33  sudo apt-get install x11vnc
+   34  history > history_for_print.txt
