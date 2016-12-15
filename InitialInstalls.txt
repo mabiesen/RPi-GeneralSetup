@@ -17,7 +17,6 @@
    18  sudo apt-get install python-pandas
    19  sudo apt-get install python-qt4
    20  sudo apt-get install git
-   21  sudo apt-get install sendmail
    22  sudo apt-get install sendemail
    23  sudo apt-get purge remove sendmail
    24  sudo apt-get --purge remove {sendmail}
