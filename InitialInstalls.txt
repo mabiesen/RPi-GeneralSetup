@@ -31,3 +31,4 @@
    33  sudo apt-get install x11vnc
    34  history > history_for_print.txt
     35 sudo apt-get install fetchmail
+        -http://www.raspberry-projects.com/pi/software_utilities/email/fetchmail-to-receive-email
