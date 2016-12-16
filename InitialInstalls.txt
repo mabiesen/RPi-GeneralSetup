@@ -30,3 +30,4 @@
    32  sudo apt-get x11vnc
    33  sudo apt-get install x11vnc
    34  history > history_for_print.txt
+    35 sudo apt-get install fetchmail
