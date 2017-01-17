@@ -1,4 +1,4 @@
-    #Advised Setup for PC Purposed Raspberry Pis
+#Advised Setup for PC Purposed Raspberry Pis
 
 ##1  sudo apt-get update
  -Fetch updates
