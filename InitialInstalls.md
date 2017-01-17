@@ -28,6 +28,7 @@
 ##17  sudo apt-get install python-pandas
 ##18  sudo apt-get install python-qt4
 ##19  sudo apt-get install git
+  -Document version control with advanced functionality
 ##20  sudo apt-get install sendemail
 ##21  sudo apt-get install sshfs
 ##22  sudo apt-get install alsa-utils
@@ -35,6 +36,8 @@
 ##24  sudo apt-get install lame
 ##25  sudo apt-get install microcom
 ##26  sudo apt-get install arduino
+  -Arduino IDE
 ##27  sudo apt-get install x11vnc
+  -VNC server for headless connections to the raspberry pi
 ##28  history > history_for_print.txt
 ##29  sudo apt-get install fetchmail
