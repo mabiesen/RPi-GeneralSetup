@@ -1,30 +1,36 @@
-    1  sudo apt-get update
-                Fetch updates
-    2  sudo apt-get upgrade
-    3  sudo apt-get install python-dev
-    4  sudo apt-get install libjpeg-dev
-    5  sudo apt-get install libfreetype6-dev
-    6  sudo apt-get install python-setuptools
-    7  sudo apt-get install python-pip
-    8  sudo easy_install -U distribute
-    9  sudo pip install RPi.GPIO
-   10  sudo pip install pySerial
-   11  sudo pip install nose
-   12  sudo pip install cmd2
-   13  sudo apt-get install python-matplotlib
-   14  sudo apt-get install python-mpltoolkits.basemap
-   15  sudo apt-get install python-numpy
-   16  sudo apt-get install python-scipy
-   17  sudo apt-get install python-pandas
-   18  sudo apt-get install python-qt4
-   19  sudo apt-get install git
-   20  sudo apt-get install sendemail
-   21  sudo apt-get install sshfs
-   22  sudo apt-get install alsa-utils
-   23  sudo apt-get install mpg321
-   24  sudo apt-get install lame
-   25  sudo apt-get install microcom
-   26  sudo apt-get install arduino
-   27  sudo apt-get install x11vnc
-   28  history > history_for_print.txt
-   29  sudo apt-get install fetchmail
+    ##1  sudo apt-get update
+                -Fetch updates
+    ##2  sudo apt-get upgrade
+                -Install updates
+    ##3  sudo apt-get install python-dev
+                -Install header files for python extensions
+    ##4  sudo apt-get install libjpeg-dev
+                -C library for reading jpeg image files
+    ##5  sudo apt-get install libfreetype6-dev
+                -Font engine?? Recommended by a website
+    ##6  sudo apt-get install python-setuptools
+                -A package development process library designed to facilitate packaging Python projects
+    ##7  sudo apt-get install python-pip
+                -
+    ##8  sudo easy_install -U distribute
+    ##9  sudo pip install RPi.GPIO
+   ##10  sudo pip install pySerial
+   ##11  sudo pip install nose
+   ##12  sudo pip install cmd2
+   ##13  sudo apt-get install python-matplotlib
+   ##14  sudo apt-get install python-mpltoolkits.basemap
+   ##15  sudo apt-get install python-numpy
+   ##16  sudo apt-get install python-scipy
+   ##17  sudo apt-get install python-pandas
+   ##18  sudo apt-get install python-qt4
+   ##19  sudo apt-get install git
+   ##20  sudo apt-get install sendemail
+   ##21  sudo apt-get install sshfs
+   ##22  sudo apt-get install alsa-utils
+   ##23  sudo apt-get install mpg321
+   ##24  sudo apt-get install lame
+   ##25  sudo apt-get install microcom
+   ##26  sudo apt-get install arduino
+   ##27  sudo apt-get install x11vnc
+   ##28  history > history_for_print.txt
+   ##29  sudo apt-get install fetchmail
