@@ -35,10 +35,13 @@
 ###17  sudo apt-get install python-pandas
   -Python package providing fast, flexible, and expressive data structures designed to make working with data intuitive
 ###18  sudo apt-get install python-qt4
+  -comprehensive set of Python bindings for Digia's Qt cross platform GUI toolkit.
 ###19  sudo apt-get install git
   -Document version control with advanced functionality
 ###20  sudo apt-get install sendemail
+  -General purpose internet work email routing facility that supports many kinds of mail-transfer and delivery methods
 ###21  sudo apt-get install sshfs
+  -Filesystem client to interact with directories and files located on a remote server over a normal ssh connection.
 ###22  sudo apt-get install alsa-utils
 ###23  sudo apt-get install mpg321
 ###24  sudo apt-get install lame
