@@ -26,10 +26,14 @@
   -Python tool for writing command-line interactive applications
 ###13  sudo apt-get install python-matplotlib
   -Plotting library for the Python programming language and its numerical mathematics extension NumPy.
-###14  sudo apt-get install python-mpltoolkits.basemap
+###14  sudo apt-get install python-mpl_toolkits.basemap
+  -Add on extension for matplotlib
 ###15  sudo apt-get install python-numpy
+  -Python support for large multidimensional arrays
 ###16  sudo apt-get install python-scipy
+  -Python package for scientific computing, has useful constants and such
 ###17  sudo apt-get install python-pandas
+  -Python package providing fast, flexible, and expressive data structures designed to make working with data intuitive
 ###18  sudo apt-get install python-qt4
 ###19  sudo apt-get install git
   -Document version control with advanced functionality
