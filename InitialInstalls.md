@@ -5,7 +5,7 @@
 ##2  sudo apt-get upgrade
   -Install updates
 ##3  sudo apt-get install python-dev
-  -Install header files for python extensions
+  -Header files for python extensions
 ##4  sudo apt-get install libjpeg-dev
   -C library for reading jpeg image files
 ##5  sudo apt-get install libfreetype6-dev
@@ -13,6 +13,7 @@
 ##6  sudo apt-get install python-setuptools
   -A package development process library designed to facilitate packaging Python projects
 ##7  sudo apt-get install python-pip
+  -A python package management system used to install and maintain packages
 ##8  sudo easy_install -U distribute
 ##9  sudo pip install RPi.GPIO
 ##10  sudo pip install pySerial
