@@ -39,5 +39,6 @@
   -Arduino IDE
 ##27  sudo apt-get install x11vnc
   -VNC server for headless connections to the raspberry pi
-##28  history > history_for_print.txt
-##29  sudo apt-get install fetchmail
+##28  sudo apt-get install fetchmail
+##29  history > history_for_print.txt
+  -Best practice should dictate that you print and save your command line history after an extensive terminal session.
