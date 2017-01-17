@@ -11,7 +11,6 @@
     ##6  sudo apt-get install python-setuptools
                 -A package development process library designed to facilitate packaging Python projects
     ##7  sudo apt-get install python-pip
-                -
     ##8  sudo easy_install -U distribute
     ##9  sudo pip install RPi.GPIO
    ##10  sudo pip install pySerial
