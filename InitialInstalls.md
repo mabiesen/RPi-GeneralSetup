@@ -15,6 +15,7 @@
 ##7  sudo apt-get install python-pip
   -A python package management system used to install and maintain packages
 ##8  sudo easy_install -U distribute
+  -Another python package installer.
 ##9  sudo pip install RPi.GPIO
   -Allows for python interaction with raspberry pi input/output pins
 ##10  sudo pip install pySerial
