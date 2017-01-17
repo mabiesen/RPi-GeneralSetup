@@ -16,6 +16,7 @@
   -A python package management system used to install and maintain packages
 ##8  sudo easy_install -U distribute
 ##9  sudo pip install RPi.GPIO
+  -Allows for python interaction with raspberry pi input/output pins
 ##10  sudo pip install pySerial
 ##11  sudo pip install nose
 ##12  sudo pip install cmd2
