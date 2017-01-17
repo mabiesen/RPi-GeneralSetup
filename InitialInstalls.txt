@@ -1,5 +1,5 @@
     1  sudo apt-get update
-    Fetch updates
+                Fetch updates
     2  sudo apt-get upgrade
     3  sudo apt-get install python-dev
     4  sudo apt-get install libjpeg-dev
