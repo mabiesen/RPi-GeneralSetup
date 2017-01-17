@@ -19,9 +19,13 @@
 ###9  sudo pip install RPi.GPIO
   -Allows for python interaction with raspberry pi input/output pins
 ###10  sudo pip install pySerial
+  -PySerial is a Python API module to access the serial port.
 ###11  sudo pip install nose
+  -Assists with testing in python (note: may no longer be supported)
 ###12  sudo pip install cmd2
+  -Python tool for writing command-line interactive applications
 ###13  sudo apt-get install python-matplotlib
+  -Plotting library for the Python programming language and its numerical mathematics extension NumPy.
 ###14  sudo apt-get install python-mpltoolkits.basemap
 ###15  sudo apt-get install python-numpy
 ###16  sudo apt-get install python-scipy
